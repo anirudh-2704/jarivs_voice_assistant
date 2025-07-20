@@ -20,16 +20,14 @@ Jarvis is a personal voice assistant built using Python, HTML, CSS, and JavaScri
  - Web APIs for voice input/output
 
 
->> How to Get Started?
-# Clone the repository
-git clone https://github.com/your-username/your-repository.git
-
-# Move into the project folder
+## How to Get Started?
+ Clone the repository:
 ```bash
- cd jarvis-voice-assistant
-```
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
+   ```
 
-Run the Flask application:
+Run the application:
 
    ```bash
    python run.py
