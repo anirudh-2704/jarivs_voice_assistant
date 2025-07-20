@@ -29,4 +29,9 @@ git clone https://github.com/your-username/your-repository.git
  cd jarvis-voice-assistant
 ```
 
-# Run your Python scripts or open the HTML/JS files depending on your setup
+Run the Flask application:
+
+   ```bash
+   python run.py
+   ```
+
