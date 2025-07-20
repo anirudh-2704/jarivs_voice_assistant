@@ -25,8 +25,8 @@ Jarvis is a personal voice assistant built using Python, HTML, CSS, and JavaScri
 git clone https://github.com/your-username/your-repository.git
 
 # Move into the project folder
-bash```
-cd jarvis-voice-assistant
+```bash
+ cd jarvis-voice-assistant
 ```
 
 # Run your Python scripts or open the HTML/JS files depending on your setup
